@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model weights or large files
+*.pth
+*.pt
+
+# Streamlit cache
+.streamlit/
+
+# OS-specific
+.DS_Store
